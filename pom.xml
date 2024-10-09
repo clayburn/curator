@@ -735,7 +735,7 @@
                     <groupId>com.gradle</groupId>
                     <artifactId>gradle-enterprise-maven-extension</artifactId>
                     <configuration>
-                        <gradleEnterprise>
+                        <develocity>
                             <normalization>
                                 <runtimeClassPath>
                                     <metaInf>
@@ -745,7 +745,7 @@
                                     </metaInf>
                                 </runtimeClassPath>
                             </normalization>
-                        </gradleEnterprise>
+                        </develocity>
                     </configuration>
                 </plugin>
             </plugins>
